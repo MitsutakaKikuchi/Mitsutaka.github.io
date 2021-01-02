@@ -26,7 +26,7 @@
                   お問い合わせやお稽古のご希望、出演依頼など、<br />下記フォームに必要事項を入力後、確認ボタンを押してください。
                 </p>
 
-                <form >
+                <form action="mail.php" method="POST" >
                   <table class="formTable">
                     <tr>
                       <th>ご用件</th>
